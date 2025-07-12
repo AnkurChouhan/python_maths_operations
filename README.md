@@ -1,7 +1,7 @@
 # Python Assignment 1 - Module 2: Basic Python Concepts
 
 This repository contains solutions for Assignment 1 of the Python course (Module 2: Basic Concepts).
-
+1.png
 ## Task 1: Basic Mathematical Operations
 Takes two numbers as input
 Performs addition, subtraction, multiplication, and division
